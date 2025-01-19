@@ -1,1 +1,1 @@
-# practica_backend_node
+# Estoy acabando la primera práctica de backend. Y queria acabar antes la primera para poder ponerme con el avanzado. Perdona por los retraso. He tenido problemas personales y estoy gestionando el tiempo como puedo. Queda pediente de envio.
